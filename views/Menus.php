@@ -40,14 +40,14 @@
               </p>
             </a>
           </li>
-         <!-- <li class="nav-item">
-            <a href="local.php" class="nav-link">
+        <li class="nav-item">
+            <a href="alquilerLocal.php" class="nav-link">
               <i class="nav-icon fas fa-glass-cheers"></i>
               <p>
                 Local Eventos
               </p>
             </a>
-          </li>-->
+          </li>
           <li class="nav-item">
             <a href="persona.php" class="nav-link">
               <i class="nav-icon fas fa-user-tie"></i>
